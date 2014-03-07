@@ -1,0 +1,7 @@
+1,git checkout origin remote_name:native_name
+
+2,git checkout orgin/remote_name
+  git checkout remote_name
+
+3,git fetch orgin remote_name
+  git checkout -b native_name orgin/remote_name
